@@ -3,3 +3,4 @@ venv
 *.pyc
 __pycache__
 __trash__
+__ask__
